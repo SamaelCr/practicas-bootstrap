@@ -1,0 +1,9 @@
+.b-r{
+    border-radius: 15px;
+}
+.shadow-card{
+    box-shadow: 3px 3px 3px rgb(161, 161, 161);
+}
+.border-custom{
+    border: 1px solid black;
+}

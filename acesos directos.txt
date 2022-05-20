@@ -1,0 +1,2 @@
+sacar menu de acceso de archivos "CTRL + space"
+quitar scroll "ALT + Z"
