@@ -6,3 +6,13 @@
 .min-h{
     min-height: 800px;
 }
+.br-r{
+    border-radius: 20px;
+}
+.position-img{
+    position: relative;
+    top: -80px;
+}
+.shadow-custom{
+    box-shadow: 0px 4px 4px 4px rgb(118, 118, 118);
+}
